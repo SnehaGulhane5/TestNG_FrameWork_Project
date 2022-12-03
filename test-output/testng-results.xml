@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-25T21:10:52 IST" name="Default suite" finished-at="2022-11-25T21:12:07 IST" duration-ms="75112">
+    <groups>
+    </groups>
+    <test started-at="2022-11-25T21:10:52 IST" name="Default test" finished-at="2022-11-25T21:12:07 IST" duration-ms="75112">
+      <class name="nov25.VerifyAsserts">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:10:52 IST" name="setUp" finished-at="2022-11-25T21:11:08 IST" duration-ms="16057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle1()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:11:08 IST" name="verifyTitle1" finished-at="2022-11-25T21:11:08 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:11:08 IST" name="tearDown" finished-at="2022-11-25T21:11:09 IST" duration-ms="735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:11:09 IST" name="setUp" finished-at="2022-11-25T21:11:49 IST" duration-ms="40558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle2()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:11:49 IST" name="verifyTitle2" finished-at="2022-11-25T21:11:49 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:11:49 IST" name="tearDown" finished-at="2022-11-25T21:11:52 IST" duration-ms="3099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:11:52 IST" name="setUp" finished-at="2022-11-25T21:12:06 IST" duration-ms="13383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle3()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:12:06 IST" name="verifyTitle3" finished-at="2022-11-25T21:12:06 IST" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle3 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:nov25.VerifyAsserts@f09733f]" started-at="2022-11-25T21:12:06 IST" name="tearDown" finished-at="2022-11-25T21:12:07 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- nov25.VerifyAsserts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
